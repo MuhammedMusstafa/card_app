@@ -28,9 +28,9 @@ class FirstScreen extends StatelessWidget {
                     backgroundImage: AssetImage('images/logo3.jpg'),
                   ),
                 ),
-                // TEXT HAZRD ALARM SYSTEM //-------------------------------
+                // TEXT HAZRDS ALERT SYSTEM //-------------------------------
                 Text(
-                  'Hazard Alarm System',
+                  'Hazards Alert System',
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.white,
